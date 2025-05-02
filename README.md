@@ -890,6 +890,7 @@ admin.html
 ![home](https://github.com/user-attachments/assets/ad83e2b1-25c7-4b80-9878-207a8bc6547a)
 ![menu](https://github.com/user-attachments/assets/e08aa969-7fa7-40ec-980f-48b5303cbbd9)
 ![contact](https://github.com/user-attachments/assets/aefc8766-6ac1-4212-bdb5-e6af09dcd72b)
+![Screenshot (58)](https://github.com/user-attachments/assets/b028c3e9-ce43-41ab-adac-d8d99219e976)
 
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
