@@ -887,9 +887,10 @@ admin.html
 </html>
 ```
 # OUTPUT:
-![home](https://github.com/user-attachments/assets/ad83e2b1-25c7-4b80-9878-207a8bc6547a)
-![menu](https://github.com/user-attachments/assets/e08aa969-7fa7-40ec-980f-48b5303cbbd9)
-![contact](https://github.com/user-attachments/assets/aefc8766-6ac1-4212-bdb5-e6af09dcd72b)
+![Screenshot 2025-05-02 131249](https://github.com/user-attachments/assets/9f280743-bebf-4a9a-aeb1-3cee1724aabf)
+![Screenshot 2025-05-02 131305](https://github.com/user-attachments/assets/22813fa5-aa38-4166-9282-da8e16a06c9e)
+![Screenshot 2025-05-02 131324](https://github.com/user-attachments/assets/f90b2199-a610-4c17-8db4-d5bfbb88864f)
+
 ![Screenshot (58)](https://github.com/user-attachments/assets/b028c3e9-ce43-41ab-adac-d8d99219e976)
 
 # RESULT:
