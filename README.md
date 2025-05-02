@@ -848,7 +848,7 @@ admin.html
             <div class="admin-item">
                 <img src="me.jpg" alt="CEO">
                 <div class="admin-details">
-                    <h3>Dhanussh</h3>
+                    <h3>K.Saranya</h3>
                     <p>Manager</p>
                 </div>
             </div>
